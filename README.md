@@ -1,4 +1,5 @@
 # Submission 2: Bank Customer Churn
+![bank_images](https://github.com/muhammadsahrul59/Bank-Customer-Churn/assets/101655285/c9de92d2-52d6-4644-b8ed-91993e426fd8)
 
 Nama: Muhammad Sahrul
 
